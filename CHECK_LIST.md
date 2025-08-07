@@ -1,4 +1,5 @@
-## Certificate Status (Updated at 2025-08-04 23:43:12)
+## Certificate Status (Updated at 2025-08-07 23:44:56)
 | Domain | Expiry Date (EC) | Issuer (EC) | Expiry Date (RSA) | Issuer (RSA) |
 |--------|------------------|-------------|-------------------|--------------|
+| asterveil.top | Nov  5 06:33:38 2025 GMT |  O = Let's Encrypt | Nov  5 06:33:44 2025 GMT |  O = Let's Encrypt |
 | showcolor.cc | Oct  6 05:56:50 2025 GMT |  O = Let's Encrypt | Oct  6 05:56:59 2025 GMT |  O = Let's Encrypt |
