@@ -1,4 +1,4 @@
-## Certificate Status (Updated at 2025-12-06 23:40:28)
+## Certificate Status (Updated at 2025-12-07 23:40:16)
 | Domain | Expiry Date (EC) | Issuer (EC) | Expiry Date (RSA) | Issuer (RSA) |
 |--------|------------------|-------------|-------------------|--------------|
 | asterveil.top | Mar  5 05:57:48 2026 GMT |  O = Let's Encrypt | Mar  5 05:57:53 2026 GMT |  O = Let's Encrypt |
